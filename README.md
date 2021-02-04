@@ -7,3 +7,5 @@ Different properties are stored in an SQLite database.
 
 
 ![](image%201.jpg)
+
+![](image%202.jpg)

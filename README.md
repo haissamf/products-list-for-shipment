@@ -6,4 +6,4 @@ Items are shown in a dynamic list and can be edited or deleted in a user-friendl
 Different properties are stored in an SQLite database.
 
 
-![](image20%1.jpg)
+https://github.com/haissamf/products-list-for-shipment/blob/master/image%201.jpg
